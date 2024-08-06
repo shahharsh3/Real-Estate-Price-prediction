@@ -1,0 +1,1 @@
+A machine learning project that using multiple modeling techinques such as Linear regression, decission tree and random project to train the model. The dataset used is of California housing dataset from sci-kit learn. The predicition is done based on the model that gives the best performance.
